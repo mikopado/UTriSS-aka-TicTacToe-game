@@ -1,0 +1,9 @@
+C:\Users\Miki\Desktop\Coding\UTriSS\UTriSS\UTriSS\obj\Release\android\assets\UTriSS.dll
+C:\Users\Miki\Desktop\Coding\UTriSS\UTriSS\UTriSS\obj\Release\android\assets\Java.Interop.dll
+C:\Users\Miki\Desktop\Coding\UTriSS\UTriSS\UTriSS\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Miki\Desktop\Coding\UTriSS\UTriSS\UTriSS\obj\Release\android\assets\mscorlib.dll
+C:\Users\Miki\Desktop\Coding\UTriSS\UTriSS\UTriSS\obj\Release\android\assets\System.Core.dll
+C:\Users\Miki\Desktop\Coding\UTriSS\UTriSS\UTriSS\obj\Release\android\assets\System.dll
+C:\Users\Miki\Desktop\Coding\UTriSS\UTriSS\UTriSS\obj\Release\android\assets\System.Xml.dll
+C:\Users\Miki\Desktop\Coding\UTriSS\UTriSS\UTriSS\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Miki\Desktop\Coding\UTriSS\UTriSS\UTriSS\obj\Release\android\assets\System.ServiceModel.Internals.dll

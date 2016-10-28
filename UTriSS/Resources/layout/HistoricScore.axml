@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="horizontal"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/linearLayout1"
+    p1:background="@drawable/background2">
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/layoutText"
+        p1:gravity="center_horizontal"
+        p1:layout_marginTop="40dp">
+        <TextView
+            p1:text="YOUR WINS"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtUser"
+            p1:layout_marginBottom="20dp"
+            p1:textColor="#000000"
+            p1:textStyle="bold"
+            p1:textSize="20dp"
+            p1:layout_marginLeft="6dp" />
+        <TextView
+            p1:text="ANDROID WINS"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtAndroid"
+            p1:layout_marginBottom="20dp"
+            p1:textColor="#000000"
+            p1:textStyle="bold"
+            p1:textSize="20dp"
+            p1:layout_marginLeft="6dp" />
+        <TextView
+            p1:text="TIES"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtTies"
+            p1:layout_marginBottom="20dp"
+            p1:textColor="#000000"
+            p1:textStyle="bold"
+            p1:textSize="20dp"
+            p1:layout_marginLeft="6dp" />
+        <TextView
+            p1:text="TOTAL PLAYS"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtTotal"
+            p1:textColor="#000000"
+            p1:textStyle="bold"
+            p1:textSize="20dp"
+            p1:layout_marginLeft="6dp" />
+    </LinearLayout>
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/layoutPoints"
+        p1:layout_marginLeft="40dp"
+        p1:layout_marginTop="40dp">
+        <TextView
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtUserPoints"
+            p1:layout_marginBottom="20dp"
+            p1:textColor="#000000"
+            p1:textStyle="bold"
+            p1:textSize="20dp" />
+        <TextView
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtDroidPoints"
+            p1:layout_marginBottom="20dp"
+            p1:textColor="#000000"
+            p1:textStyle="bold"
+            p1:textSize="20dp" />
+        <TextView
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtTiesPoints"
+            p1:layout_marginBottom="20dp"
+            p1:textColor="#000000"
+            p1:textStyle="bold"
+            p1:textSize="20dp" />
+        <TextView
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtTotalCount"
+            p1:textColor="#000000"
+            p1:textStyle="bold"
+            p1:textSize="20dp" />
+    </LinearLayout>
+</LinearLayout>
